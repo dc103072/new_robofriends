@@ -1,12 +1,12 @@
 export const robots = [
 {
-	id:1,
+	id: 'images/1.jpg',	
 	name: 'Leanne Graham',
 	username: 'Bret',
 	email: 'Sincere@april.biz'
 },
 {
-	id:2,
+	id: 'images/2',
 	name: 'Ervin Howell',
 	username: 'Antonette',
 	email: 'Shanna@melissa.tv'
