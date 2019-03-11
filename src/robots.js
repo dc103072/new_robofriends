@@ -1,12 +1,12 @@
 export const robots = [
 {
-	id: 'images/1.jpg',	
+	id: '{/images/1.jpg}',	
 	name: 'Leanne Graham',
 	username: 'Bret',
 	email: 'Sincere@april.biz'
 },
 {
-	id: 'images/2',
+	id: 2,
 	name: 'Ervin Howell',
 	username: 'Antonette',
 	email: 'Shanna@melissa.tv'
@@ -60,7 +60,6 @@ export const robots = [
 	email: 'Rey.Padberg@karina.biz'
 }
 ];
-
 
 
 
