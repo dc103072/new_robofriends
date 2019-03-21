@@ -16,7 +16,6 @@ robots.map((user, i) => {
 	 key={i} 
 	 id={robots[i].id}
 	 name={robots[i].name}
-	 email={robots[i].email}
 	 />
 	);
 })
